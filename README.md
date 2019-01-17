@@ -16,7 +16,7 @@ já é possível **exibir** todos os produtos existentes.
 
 Faça um fork desse repositório e divida em commits os passos necessários para a
 produção do resultado final. Quando terminar abra um Pull Request 
-com o resultado, se você nunca usou git crie uma conta no gitlab ou github e 
+com o resultado, se você nunca usou git crie uma conta github e 
 dê uma olhada nos links abaixo.
 
 Lembre-se de adicionar um arquivo HOWTO.md descrevendo o necessário para execução 
